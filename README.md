@@ -24,7 +24,7 @@ and "Sana Distancia" or Keep your Distance.
 <li> Implementing both Stay Home and Keep your Distance (with a gradual intensity).</li>
 </ol>
 
-#### <b> GIF for the first scenario</b>
+#### <b> GIF for the first scenario:</b>
 
 <p align="center">
 <img src="https://github.com/nikoneri/COVID19-SIMULATION-USING-BROWNIAN-DYNAMICS/blob/main/4.%20GRAPHS%20AND%20GIF%20ANIMATION/CASO1_aleatorio10%25.gif" width="450px" >
