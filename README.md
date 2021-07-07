@@ -18,23 +18,31 @@ and "Sana Distancia" or Keep your Distance.
 
 <b>We can compare different scenarios such as :</b>
 <ol>
-<li> Not implementing any sanitary measurements (the parameters that allow this scenario are set by default in this code).</li>
+<li> Not implementing any sanitary measurements (the parameters that allow this scenario are set by default in the code uploaded in this repo).</li>
 <li> Implementing just Stay Home (with a gradual intensity).</li>
 <li> Implementing just Keep your Distance (with a gradual intensity).</li>
 <li> Implementing both Stay Home and Keep your Distance (with a gradual intensity).</li>
 </ol>
 
 ## 3. SOME REMARKS:
-*We use the Ermak algorithm to move particles (people) and solve overdamped Langevin equations or in the diffusive regime.
-*This work is originally in Spanish, so some of the variables and subroutines are in that language.
-*This simple contagion model doesn't include recovered people or inmmune people. Including this in the future will improve the model.
-*We consider people to be 2D colloids with a diameter of 1 m.
-*We work with reduced units, also called dimensionless units.
-*We work with a repulsive potential of the type U=(r0/r)^v.
-*Besides computing the number of infected people, this program can also compute structural and dynamical properties:
-    1. Radial distribution function g(r), which gives us an insight on the most likely average distance between particles.
-    2. Mean Square Displacement W(t), which gives us an insight on how much area the particles spread out.
-    3. Diffussion Coefficient D(t), which gives us an insight on the mobility (speed) of particles.
-*This work has been presented at two congress:
-    1. LXIII National Congress of Physics in Mexico.
-    2. XXXI National Week of Research and Teaching in Mathematics in Hermosillo, Sonora, Mexico.
+<ul>
+<li>We use the Ermak algorithm to move particles (people) and solve overdamped Langevin equations or in the diffusive regime. </li>
+<li>This work is originally in Spanish, so some of the variables and subroutines are in that language.</li>
+<li>This simple contagion model doesn't include recovered people or inmmune people. Including this in the future will improve the model.</li>
+<li>We consider people to be 2D colloids with a diameter of 1 m.</li>
+<li>We work with reduced units, also called dimensionless units.</li>
+<li>We work with a repulsive potential of the type U=(r0/r)^v.</li>
+<li>Besides computing the number of infected people, this program can also compute structural and dynamical properties:
+    <ol>
+    <li> Radial distribution function g(r), which gives us an insight on the most likely average distance between particles.</li>
+    <li> Mean Square Displacement W(t), which gives us an insight on how much area the particles spread out.</li>
+    <li> Diffussion Coefficient D(t), which gives us an insight on the mobility (speed) of particles.</li>
+    </ol>
+    </li>
+<li> This work has been presented at two congress:
+    <ol>
+    <li>LXIII National Congress of Physics in Mexico (you can watch our presentation (in spanish) at: https://youtu.be/47bXLXEzZDo?t=8183). </li>
+    <li> XXXI National Week of Research and Teaching in Mathematics in Hermosillo, Sonora, Mexico. </li>
+    </ol>
+    </li>
+</ul>
