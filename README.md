@@ -43,7 +43,7 @@ and "Sana Distancia" or Keep your Distance.
 <ul>
 <li>This work is originally in Spanish, so some of the variables and subroutines are in that language.</li>
 <li>We use the Ermak algorithm to move particles (people) and solve overdamped Langevin equations or in the diffusive regime. </li>
-<li>This simple contagion model doesn't include recovered people or inmmune people. Including this in the future will improve the model.</li>
+<li>This simple contagion model doesn't include recovered people or immune people. Including this in the future will improve the model.</li>
 <li>We consider people to be 2D colloids with a diameter of 1 m.</li>
  <li>The infection distance is by deafult DINF=2.5.</li>
 <li>We work with reduced units, also called dimensionless units.</li>
