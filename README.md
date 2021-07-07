@@ -24,7 +24,7 @@ and "Sana Distancia" or Keep your Distance.
 <li> Implementing both Stay Home and Keep your Distance (with a gradual intensity).</li>
 </ol>
 
-<img src="./GRAPHS AND GIF ANIMATIONS/CASO1_aleatorio10%.gif">
+<img src="../4. GRAPHS AND GIF ANIMATION/CASO1_aleatorio10%.gif">
 
 ### 2.1 HIGHLIGHTS
 <ul>
