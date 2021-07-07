@@ -27,7 +27,10 @@ and "Sana Distancia" or Keep your Distance.
 #### <b> GIF for the first scenario</b>
 
  
-<img src="https://github.com/nikoneri/COVID19-SIMULATION-USING-BROWNIAN-DYNAMICS/blob/main/4.%20GRAPHS%20AND%20GIF%20ANIMATION/CASO1_aleatorio10%25.gif" width="300px">
+<img src="https://github.com/nikoneri/COVID19-SIMULATION-USING-BROWNIAN-DYNAMICS/blob/main/4.%20GRAPHS%20AND%20GIF%20ANIMATION/CASO1_aleatorio10%25.gif" width="400px" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
 
 
 ### 2.1 HIGHLIGHTS
