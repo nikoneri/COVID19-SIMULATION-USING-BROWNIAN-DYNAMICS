@@ -1,11 +1,12 @@
 # COVID19-SIMULATION-USING-BROWNIAN-DYNAMICS
 
    ## 1. AUTHORS AND E-MAIL CONTACT:
-   -Isaac Neri Gomez Sarmiento (isaacneri.gs@gmail.com)
-   -César Omar Ramírez Álvarez (cesaromarramirezalvarez@gmail.com)
-   -Jonas Valenzuela Terán     (24jonass@gmail.com)   
-   -We thank the support and advice of our molecular simulations teacher Dr. Laura Lorenia Yeomans Reyna
-   
+   <ul>
+   <li>Isaac Neri Gomez Sarmiento (isaacneri.gs@gmail.com) </li>
+   <li> César Omar Ramírez Álvarez (cesaromarramirezalvarez@gmail.com) </li>
+   <li> Jonas Valenzuela Terán     (24jonass@gmail.com) </li>
+   <li>We thank the support and advice of our molecular simulations teacher Dr. Laura Lorenia Yeomans Reyna </li>
+   </ul>
    ## 2. DESCRIPTION:
    *In this program we obtained a simple contagion model, when making certain analogies between a human population and
    a two-dimensional coloidal suspension system under brownian motion.
