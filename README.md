@@ -38,6 +38,7 @@ and "Sana Distancia" or Keep your Distance.
 <li>By itself, the sanitary measure Keep your Distance was more effective than Stay Home, according to the chosen parameters. In the ideal case where Keep your Distance is being followed by all people at any moment and place, it might considerably reduce the velocity of infection, because people would be out of the distance of infection. </li>
     <li>This work serves as a teaching tool for learning Brownian Dynamics and make people aware of the importance of following the sanitary measurements to face the COVID-19 pandemic.</li>
 </ul>
+
 ## 3. SOME REMARKS:
 <ul>
 <li>This work is originally in Spanish, so some of the variables and subroutines are in that language.</li>
