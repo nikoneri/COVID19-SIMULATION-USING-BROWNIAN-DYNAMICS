@@ -28,7 +28,7 @@ and "Sana Distancia" or Keep your Distance.
 
 It was possible to find analogies between the physical model and the model of infection, enabling us to explore the effectivity of sanitary measurements using brownian dynamics
 Based in our results, following both sanitary measures (Keep your Distance and Stay Home) reduce considerably the number of new infected people.
-By itself, the sanitary measure Keep your Distance was more effective than Stay Home, according to the chosen parameters. In the ideal case where Keep your Distance is being followed by all people at any moment and place, it will considerably reduce the velocity of infection, because people would be 
+By itself, the sanitary measure Keep your Distance was more effective than Stay Home, according to the chosen parameters. In the ideal case where Keep your Distance is being followed by all people at any moment and place, it will considerably reduce the velocity of infection, because people would be....to be continued
 Por si sola, la
 medida de "Sana Distancia" es la más efectiva en el caso
 particular de los parámetros elegidos, ya que si ésta es
