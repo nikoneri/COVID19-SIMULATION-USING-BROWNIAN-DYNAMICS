@@ -18,7 +18,7 @@ and "Sana Distancia" or Keep your Distance.
 
 <b>We can compare different scenarios such as :</b>
 <ol>
-<li> Not implementing any sanitary measurements (the parameters that allow this scenario are set by default in the code uploaded in this repo).</li>
+<li> Not implementing any sanitary measures (the parameters that allow this scenario are set by default in the code uploaded in this repo).</li>
 <li> Implementing just Stay Home (with a gradual intensity).</li>
 <li> Implementing just Keep your Distance (with a gradual intensity).</li>
 <li> Implementing both Stay Home and Keep your Distance (with a gradual intensity).</li>
