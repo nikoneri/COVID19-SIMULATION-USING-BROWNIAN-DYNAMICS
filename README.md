@@ -30,7 +30,7 @@ and "Sana Distancia" or Keep your Distance.
 <img src="https://github.com/nikoneri/COVID19-SIMULATION-USING-BROWNIAN-DYNAMICS/blob/main/4.%20GRAPHS%20AND%20GIF%20ANIMATION/CASO1_aleatorio10%25.gif" width="450px" >
 </p>
 
-### 2.1 HIGHLIGHTS
+## 3. HIGHLIGHTS
 <ul>
     <li>It was possible to find analogies between the physical model and the model of infection, enabling us to explore the effectivity of sanitary measurements using brownian dynamics.</li>
     
@@ -39,7 +39,7 @@ and "Sana Distancia" or Keep your Distance.
     <li>This work serves as a teaching tool for learning Brownian Dynamics and make people aware of the importance of following the sanitary measurements to face the COVID-19 pandemic.</li>
 </ul>
 
-## 3. SOME REMARKS:
+## 4. SOME REMARKS:
 <ul>
 <li>This work is originally in Spanish, so some of the variables and subroutines are in that language.</li>
 <li>We use the Ermak algorithm to move particles (people) and solve overdamped Langevin equations or in the diffusive regime. </li>
